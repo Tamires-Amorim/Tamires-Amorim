@@ -27,4 +27,4 @@
 
 <div align="center">
 
-
+![snake gif](https://github.com/Tamires-Amorim/Tamires-Amorim/blob/output/github-contribution-grid-snake.svg)

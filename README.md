@@ -26,6 +26,3 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Tamires-Amorim/count.svg" /></p>
 
 <div align="center">
-
-  
-![snake gif](https://github.com/Tamires-Amorim/Tamires-Amorim/blob/output/github-contribution-grid-snake.svg)

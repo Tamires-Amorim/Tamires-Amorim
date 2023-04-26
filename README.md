@@ -14,16 +14,8 @@
   <a href="https://www.instagram.com/tamires_amoriiim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tamires-amorim-3b3453181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </br>
+ 
 <div style="display: inline_block">
-<div align="center">
-  <a href="https://github.com/Tamires-Amorim">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Tamires-Amorim&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamires-Amorim&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-
-</br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Tamires-Amorim/count.svg" /></p>
 
 <div align="center">

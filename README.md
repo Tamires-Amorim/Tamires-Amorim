@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d4507a&size=35&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?!+Eu+sou+a+Tamires+Amorim;Tenho+25+anos;Moro+Em+Fortaleza,+CE;Seja+Bem+vindo(a)!+😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d4507a&size=35&center=true&vCenter=true&width=1000&lines=Olá,+tudo+bem?!+Eu+sou+a+Tamires+Amorim;Tenho+26+anos;Moro+Em+Fortaleza,+CE;Seja+Bem+vindo(a)!+😎)](https://git.io/typing-svg)
 
 ## Tecnologias que estudo constantemente                                                                                     
 <div align="center" valign="top"><br>
